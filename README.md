@@ -1,2 +1,2 @@
 # JavaProjects
-Projects made with C programming language. These are all individual projects.
+Projects made with the Java programming language. These are all individual projects.
